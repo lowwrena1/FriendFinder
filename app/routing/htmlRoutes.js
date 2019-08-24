@@ -6,7 +6,7 @@ var app = express();
 // path integration
 var path = require('path');
 // port location
-const port = 3030;
+const port = 3000;
 
 // get request to send home.html by default
 app.get('/', function(req, res){

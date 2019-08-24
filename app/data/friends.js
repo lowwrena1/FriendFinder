@@ -80,6 +80,22 @@ friendData=[
         5,
         4
       ]
-  }
+  },
+  {
+  name :"Danniel", 
+  photo :"",
+  scores :[
+      4,
+      4,
+      5,
+      5,
+      5,
+      5,
+      3,
+      5,
+      5,
+      5
+    ]
+},
 ];
 module.exports = friends;
