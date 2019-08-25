@@ -1,5 +1,13 @@
 # FriendFinder
 For those single developers looking to fix code and find their match!
+# Technologies used
+* node.js
+* express
+* javascript
+*html
+* bootstrap
+* heroku
+* npm packages
 # How It Works
 In theory this app would Find you the match of your dreams based off 10 questions that take in an array of answers and 
 compare them to the other users. It well find the match that is most compatable with you based off your answers and display your  match on the screen.
