@@ -4,7 +4,7 @@ For those single developers looking to fix code and find their match!
 * node.js
 * express
 * javascript
-*html
+* html
 * bootstrap
 * heroku
 * npm packages
